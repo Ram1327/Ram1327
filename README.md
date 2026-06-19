@@ -1,5 +1,5 @@
 # About Me:
-I’m currently working on a full-stack [mention your project, e.g., e-commerce app] using [Tech Stack].<br> I’m looking to collaborate on open-source React or TypeScript projects.<br> I’m currently learning advanced backend architecture and AWS.
+I’m currently working on a full-stack Swapskill using React.<br> I’m looking to collaborate on open-source React or TypeScript projects.<br> I’m currently learning advanced backend architecture and AWS.
 
 
 ## Socials:
